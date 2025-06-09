@@ -1,0 +1,20 @@
+{
+    "name": "Narazaka.Unity.MeshCombineStudioOnBuild.Editor",
+    "rootNamespace": "",
+    "references": [
+        "MeshCombineStudio.Runtime",
+        "MeshCombineStudio.Editor",
+        "Narazaka.Unity.MeshCombineStudioOnBuild"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": false,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
